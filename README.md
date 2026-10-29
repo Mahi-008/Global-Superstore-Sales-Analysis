@@ -1,6 +1,3 @@
-
-readme_content = """# Global Superstore Sales Analysis
-
 ## Project Overview
 This project analyzes Global Superstore sales data using Python.
 It explores sales, profit, product categories, regions,
